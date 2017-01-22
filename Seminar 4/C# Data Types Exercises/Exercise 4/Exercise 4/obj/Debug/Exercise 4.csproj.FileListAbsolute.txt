@@ -1,0 +1,6 @@
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe.config
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 4\Exercise 4\bin\Debug\Exercise 4.pdb
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 4\Exercise 4\obj\Debug\Exercise 4.csprojResolveAssemblyReference.cache
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 4\Exercise 4\obj\Debug\Exercise 4.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 4\Exercise 4\obj\Debug\Exercise 4.pdb

@@ -1,0 +1,6 @@
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 10\Exercise 10\bin\Debug\Exercise 10.exe.config
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 10\Exercise 10\bin\Debug\Exercise 10.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 10\Exercise 10\bin\Debug\Exercise 10.pdb
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 10\Exercise 10\obj\Debug\Exercise 10.csprojResolveAssemblyReference.cache
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 10\Exercise 10\obj\Debug\Exercise 10.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 10\Exercise 10\obj\Debug\Exercise 10.pdb

@@ -1,0 +1,5 @@
+F:\Master an 1\C#\Seminarii\Exercise 3\Exercise 3\bin\Debug\Exercise 3.exe.config
+F:\Master an 1\C#\Seminarii\Exercise 3\Exercise 3\bin\Debug\Exercise 3.exe
+F:\Master an 1\C#\Seminarii\Exercise 3\Exercise 3\bin\Debug\Exercise 3.pdb
+F:\Master an 1\C#\Seminarii\Exercise 3\Exercise 3\obj\Debug\Exercise 3.exe
+F:\Master an 1\C#\Seminarii\Exercise 3\Exercise 3\obj\Debug\Exercise 3.pdb

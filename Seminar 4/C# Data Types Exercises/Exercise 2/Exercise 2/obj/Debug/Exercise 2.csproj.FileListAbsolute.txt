@@ -1,0 +1,5 @@
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 2\Exercise 2\bin\Debug\Exercise 2.exe.config
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 2\Exercise 2\bin\Debug\Exercise 2.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 2\Exercise 2\bin\Debug\Exercise 2.pdb
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 2\Exercise 2\obj\Debug\Exercise 2.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Data Types Exercises\Exercise 2\Exercise 2\obj\Debug\Exercise 2.pdb

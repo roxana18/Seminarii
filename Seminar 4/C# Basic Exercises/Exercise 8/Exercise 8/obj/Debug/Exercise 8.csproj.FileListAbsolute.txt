@@ -1,0 +1,5 @@
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 8\Exercise 8\bin\Debug\Exercise 8.exe.config
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 8\Exercise 8\bin\Debug\Exercise 8.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 8\Exercise 8\bin\Debug\Exercise 8.pdb
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 8\Exercise 8\obj\Debug\Exercise 8.exe
+F:\Master an 1\C#\Seminarii\Seminar 4\C# Basic Exercises\Exercise 8\Exercise 8\obj\Debug\Exercise 8.pdb
