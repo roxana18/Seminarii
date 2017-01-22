@@ -1,0 +1,27 @@
+F:\Master an 1\C#\Seminarii\Seminar 2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe.config
+F:\Master an 1\C#\Seminarii\Seminar 2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar 2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar 2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.csprojResolveAssemblyReference.cache
+F:\Master an 1\C#\Seminarii\Seminar 2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar 2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse1\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe.config
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse1\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse1\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe.config
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar 3\UbbCourse2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.csprojResolveAssemblyReference.cache
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe.config
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise2\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.csprojResolveAssemblyReference.cache
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise2\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise4\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe.config
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise4\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise4\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise4\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.exe
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise4\Classes Tutorial\Classes Tutorial\bin\Debug\Classes Tutorial.pdb
+F:\Master an 1\C#\Seminarii\Seminar\UbbCourse2\Exercise4\Classes Tutorial\Classes Tutorial\obj\Debug\Classes Tutorial.csprojResolveAssemblyReference.cache
